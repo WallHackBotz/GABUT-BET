@@ -40,4 +40,4 @@
 
 ## тМия╕П Is My Project
 * WhatsApp Bot Normal [`Ramdaniofficial/Jembot-bot`](https://github.com/Ramdaniofficial/v12)
-* WhatsApp Bot Multi Device [`Ramdaniofficial/JembotMD`](https://github.com/Ramdaniofficial/Jembot-bot)
+* WhatsApp Bot Multi Device [`Ramdaniofficial/Jembot-MD`](https://github.com/Ramdaniofficial/Jembot-bot)
