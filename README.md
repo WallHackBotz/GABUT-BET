@@ -38,6 +38,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=Ramdaniofficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=Ramdaniofficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
-## тМия╕П Is My Project
+## Is My Project
 * WhatsApp Bot Normal [`Ramdaniofficial/Jembot-bot`](https://github.com/Ramdaniofficial/v12)
 * WhatsApp Bot Multi Device [`Ramdaniofficial/Jembot-MD`](https://github.com/Ramdaniofficial/Jembot-bot)
